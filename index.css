@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+
+    box-sizing: border-box;
+    border: 1px solid #5f9341;
+    font-size: medium;
+}
+
+button {
+    margin-top: 5px;
+    padding: 10px 20px 10px 20px;
+
+    font-weight: bold;
+    border: 1px solid #5f9341;
+
+    background-color: #5f9341;
+    color: white;
+}
+
+ul {
+    list-style:none;
+    margin-top: 5px;
+    padding: 20px 20px 10px 0px;
+}
+
+li {
+    margin-top : 5px;
+}
+
+li a {
+    color: #5f9341;
+}
+
+#del-btn {
+    background-color: white;
+    color: #5f9341;
+}
